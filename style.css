@@ -1,0 +1,30 @@
+.text-yellow{
+    color: yellow
+}
+
+.text-big{
+    font-size: 28pt;
+}
+
+.text-orange{
+    color: orange;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-center p{
+    font-size: 24pt;
+}
+#input-number{
+    background-color: bisque;
+    color: blueviolet;
+    font-size: 18pt;
+}
+
+#btn-guess{
+    background-color: blueviolet;
+    color: white;
+    font-size: 18pt;
+}
